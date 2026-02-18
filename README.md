@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Amr
-
-### Senior Computer & Communications Engineering Student  
+# Aspiring Amr
 
 I am a Senior CCE student. I sit at the intersection of hardware, networking, and software. Usually focusing on Cloud & Cybersecurity  :P.. Anyways, If you'd like to build something together HMU. Let's alter the flow of the world with our own hands.
 
