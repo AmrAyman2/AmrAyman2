@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Amr
 
-<!--
-**AmrAyman2/AmrAyman2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Computer & Communications Engineering Student  
+**Focusing on Cloud Architecture, Cybersecurity, and IT Generally**
 
-Here are some ideas to get you started:
+I am a Senior CCE student. I sit at the intersection of hardware, networking, and software :P.. Anyways, If you'd like to build something together HMU. Let's alter the flow of the world with our own hands.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 📈 GitHub Stats
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
+
+---
+
+### 📫 Let's Connect!
+- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/amr-ayman-82aa33280/)
+- 📧 **Email:** [Amr.Mohamed2615@gmail.com](mailto:amr.mohamed2615@gmail.com)
+
+*"Have Faith in your work."*
